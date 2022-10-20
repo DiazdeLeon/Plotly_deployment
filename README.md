@@ -1,6 +1,6 @@
-# Plotly_deployment
+# Belly Button Biodiversity Dashboard
 
-The objective of this challenge was to develop a dynamic dashboard with a horizontal bar, a bubble chart a gauge chart and to customize the dashboard. 
+The objective of this work was to develop a dynamic dashboard with a horizontal bar, a bubble chart a gauge chart and to customize the dashboard. 
 
 As a first step the dashboard was complete for demographic data, however the challenge requested to visualize the bacterial data for each volunteer. It was requested to identify the top ten bacterial species in their belly buttons. 
 
